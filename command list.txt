@@ -1,0 +1,24 @@
+1. git init
+2. git status
+3. git add -A 
+4. git commit -m "add index.html"
+5. git status
+6. git add -A 
+7. git commit -m "add style.css"
+8. git branch "version-1"
+9. git status
+10. git add -A 
+11. git commit -m ""rename style.css"
+12. git status
+13. git add -A 
+14. git commit -m ""add index.js"
+15. git status
+16. git add -A 
+17. git commit -m "change position command_2"
+18. git log
+19. git checkout "version-1"
+20. git cherry-pick 06247e6
+
+
+
+
